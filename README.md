@@ -99,7 +99,3 @@
 - Próximos passos e recursos adicionais
 
 ---
-
-
-
-Esta apresentação oferece uma compreensão abrangente da utilização do Bootstrap e do Base Template no Flask, destacando os benefícios e as melhores práticas para criar aplicações web robustas e bem estruturadas.
